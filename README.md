@@ -1,5 +1,6 @@
 # 🎲 Pig Game: Roll the Dice Adventure 🐷
 
+© Copyright by Jonas Schmedtmann. Used for learning
 Welcome to the "Pig Game," a thrilling two-player dice game where the stakes are high, and the dice are your destiny! This project, crafted with HTML, CSS, and JavaScript, brings the classic jeopardy of Pig to life in a digital playground.
 
 🚀 Key Features:
